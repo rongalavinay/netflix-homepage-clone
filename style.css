@@ -1,0 +1,209 @@
+
+#intro{
+  height: 750px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://assets.nflxext.com/ffe/siteui/vlv3/b70b092f-1760-4498-b462-b4ef19907ec7/82d16842-c3ea-4efe-a5db-9a33924d2173/IN-en-20211101-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+  background-size: cover;
+  background-position: center top;
+
+}
+.logo-img{
+  width: 40%;
+}
+.navbar-brand{
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.signin-btn{
+  margin: 0 30px;
+  margin-right: 50px;
+}
+.intro-items{
+  margin: 100px;
+  margin-top: 150px;
+  color: white;
+  text-align: center;
+  padding-bottom: 200px;
+}
+.unlimited{
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 70px;
+  margin: 0 250px;
+}
+h3{
+  font-family: 'Lato', sans-serif;
+  color: white;
+
+}
+p{
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
+.mail{
+  border: none;
+  padding-right: 200px;
+  padding-left: 40px;
+  padding-top: 25px;
+  padding-bottom: 14px;
+  border-radius: 0;
+  margin: 0;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+}
+.start-btn{
+  padding: 10px 30px;
+  padding-top: 15px;
+  border: none;
+  border-radius: 0;
+  background-color: red;
+  color: white;
+  margin: 0;
+  margin-left: -4px;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+}
+
+hr{
+  border: 3px solid ;
+  color: #191A19;
+  margin: 0;
+}
+/* tv */
+#tv{
+  background-color: #000;
+  padding: 10px  200px;
+}
+h1{
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: white;
+}
+.story-card-video{
+  position: absolute;
+  top: 865px;
+  right: 185px;
+}
+.tv-img{
+  z-index: 1;
+  position: relative;
+}
+.tv-txt{
+  padding-top: 150px;
+}
+
+/* phone */
+#phone{
+  background-color: #000;
+  padding: 50px;
+}
+.phone-img{
+  padding-left: 100px;
+  width: 90%;
+}
+.phone-txt{
+  padding-top: 100px;
+  padding-right: 130px;
+}
+.card{
+  border: solid;
+  border-color: #2B2B2B;
+  border-width: 1px;
+  background-color: #000;
+  padding: 0;
+  margin: 0 200px;
+  position: absolute;
+  top: 1570px;
+}
+.stranger-things{
+  width: 60%;
+  padding: -10px;
+  margin: 0;
+
+}
+.s-text{
+  font-size: 20px;
+  color: white;
+  margin-left:-20px;
+  margin-top: 10px;
+}
+.m-text{
+  font-size: 15px;
+  color: #0F52BA;
+  margin-left: -20px;
+  margin-top: -20px;
+}
+/* apple-tv*/
+#apple-pc{
+  background-color: #000;
+  padding: 10px  50px;
+  padding-right: 200px;
+}
+.our-story-card-animation{
+  position: absolute;
+  top: 1840px;
+  right: 200px;
+}
+.apple-img{
+  z-index: 1;
+  position: relative;
+  width: 125%;
+}
+.atv-txt{
+  padding-top: 200px;
+
+}
+
+/* kids */
+
+#kids{
+  background-color: #000;
+  padding-bottom: 100px;
+}
+
+.kids-img{
+  width: 70%;
+  margin: 100px;
+  margin-bottom: 0;
+  margin-left: 150px;
+}
+.kids-txt{
+  margin-top: 180px;
+  padding-right: 200px;
+}
+
+/* faq */
+#faq{
+  background-color: #000;
+  align-items: center;
+  text-align: center;
+  padding: 50px;
+}
+.faq{
+  margin: 50px 0;
+  margin-top: 0;
+}
+.questions{
+  padding: 20px;
+  padding-right: -50px;
+  background-color: #2B2B2B;
+  text-align: left;
+  margin: 10px 300px;
+}
+.readytowatch{
+  color: white;
+  margin-top: 50px;
+}
+
+
+#ending{
+  padding: 200px;
+  background-color: #000;
+  color: #2B2B2B;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  text-align: center;
+}
