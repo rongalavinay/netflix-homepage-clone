@@ -1,2 +1,2 @@
 # netflix-homepage-clone
-netflix signin page (clone)
+it is only compatible for desktop
