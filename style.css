@@ -1,6 +1,6 @@
 
 body{
-   width:100vh;
+   overflow:hidden;
 }
 #intro{
   height: 750px;
