@@ -1,4 +1,6 @@
-
+body{
+  overflow-x:auto;
+}
 
 #intro{
   height: 750px;
