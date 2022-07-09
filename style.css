@@ -1,4 +1,7 @@
 
+body{
+   width:100vh;
+}
 #intro{
   height: 750px;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://assets.nflxext.com/ffe/siteui/vlv3/b70b092f-1760-4498-b462-b4ef19907ec7/82d16842-c3ea-4efe-a5db-9a33924d2173/IN-en-20211101-popsignuptwoweeks-perspective_alpha_website_small.jpg');
