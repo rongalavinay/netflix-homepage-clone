@@ -1,6 +1,7 @@
 
 body{
    overflow-x:hidden;
+   overflow-y:visible;
 }
 #intro{
   height: 750px;
